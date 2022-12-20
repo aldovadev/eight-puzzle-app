@@ -167,3 +167,5 @@ if __name__ == "__main__":#Fungsi Utama Sistem
     #Kelima : Kita Membandingkan Array Data Terbaru Dengan goalState Yang Diiginkan 
     #Keenam : Terus Melakukan Update Tampilan Agar Sesuai Dengan Perubahan Yang Terjadi Pada Array Data
     #Ketujuh : Kalo Sudah Terpecahkan Maka Program Berhenti Dengan Pesan Kemenangan Dengan Pilihan Mengulang Atau Tidak (Restart Y/N?)
+
+#Mencoba GIT workflow dengan vscode
