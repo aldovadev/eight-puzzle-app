@@ -4,7 +4,7 @@ from pdb import Restart
 import pygame
 from pygame.locals import QUIT
 import sys
-import numpy as np
+#import numpy as np
 
 #Array initialState (Kondisi Awal Puzzle) Dengan Array 2 Dimensi Dengan Nol(0) Sebagai Kotak Kosong
 initialState = [[2, 8, 3], [1, 6, 4], [7, 0, 5]]
@@ -167,18 +167,3 @@ if __name__ == "__main__":#Fungsi Utama Sistem
     #Kelima : Kita Membandingkan Array Data Terbaru Dengan goalState Yang Diiginkan 
     #Keenam : Terus Melakukan Update Tampilan Agar Sesuai Dengan Perubahan Yang Terjadi Pada Array Data
     #Ketujuh : Kalo Sudah Terpecahkan Maka Program Berhenti Dengan Pesan Kemenangan Dengan Pilihan Mengulang Atau Tidak (Restart Y/N?)
-
-#Mempelajari GIT
-#WIP!
-#Mempelajari GIT
-#WIP!
-#Mempelajari GIT
-#WIP!
-#Mempelajari GIT
-#WIP!
-#Mempelajari GIT
-#WIP!
-#Mempelajari GIT
-#WIP!
-#Mempelajari GIT
-#WIP!
