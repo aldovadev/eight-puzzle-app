@@ -4,7 +4,6 @@ from pdb import Restart
 import pygame
 from pygame.locals import QUIT
 import sys
-import numpy as np
 
 #Array initialState (Kondisi Awal Puzzle) Dengan Array 2 Dimensi Dengan Nol(0) Sebagai Kotak Kosong
 initialState = [[2, 8, 3], [1, 6, 4], [7, 0, 5]]
