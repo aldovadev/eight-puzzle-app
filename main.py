@@ -10,7 +10,7 @@ initialState = [[2, 8, 3], [1, 6, 4], [7, 0, 5]]
 
 pygame.init()  # Initializing pygame
 pygame.display.set_caption(
-    "8 PUZZLE | BY : Yunomi99"
+    "8 PUZZLE | BY : Aldovadev"
 )  # Setting the title of the game window
 clock = pygame.time.Clock()  # Creating a pygame clock object to control frame rate
 screen = pygame.display.set_mode(
